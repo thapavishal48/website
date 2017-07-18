@@ -1,0 +1,14 @@
+body{
+	background-image:url(stalker_kitteh_catmouflage_by_viszera-d378rc6.jpg);
+	width:100%;
+	height:100%;
+	background-repeat:no-repeat;
+	background-size:cover;
+
+}
+.about{
+	font-size:20px;
+	display:inline;
+	color:white;
+	text-decoration:none;
+}

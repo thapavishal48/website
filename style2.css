@@ -1,0 +1,106 @@
+body{
+	margin:0;
+}
+header{
+	background:black;
+	color:white;
+	
+	padding:0px 0px 6px 40px;
+	height:45px;
+	
+}
+header h1{
+	display:inline;
+	font-size:35px;
+	float:left;
+	margin-right:20px;
+	margin-top:0px;
+}
+nav ul{
+	display:inline;
+	float:left;
+}
+nav ul li{
+	display:inline;
+	list-style-type:none;
+	color:white;
+	float:left;
+	margin-left:30px
+}
+nav ul li a{
+	color:white;
+	float:left;
+	text-decoration:none;
+
+}
+#logo{
+	float:right;
+}
+#social-media-icon{
+	float:right;
+}
+.homered:hover{
+	background-color:#008B8B;
+}
+.homegreen:hover{
+	background-color:#008B8B;
+}
+
+.divider{
+	background-color:#008B8B;
+	height:5px;
+}
+.heading{
+	display:inline;
+	color:white;
+	float:left;
+	margin-left:100px;
+}
+.order{
+	display:inline;
+	color:pink;
+	float:left;
+	margin-left:100px;
+}
+.list0{
+	font-size:20px;
+	display:inline;
+	color:white;
+	text-decoration:none;
+}
+body{
+	background-image:url(246463_fishing-widescreen-hd-wallpapers-17520-amazing-wallpaperz_1920x1200_h.jpg);
+	width:100%;
+	height:100%;
+	background-repeat:no-repeat;
+	background-size:cover;
+
+}
+.list1{
+	font-size:20px;
+	display:inline;
+	color:#008B8B;
+	text-decoration:none;
+}
+.list2{
+	font-size:20px;
+	display:inline;
+	color:#008B8B;
+	text-decoration:none;
+}
+.ending{
+	display:inline;
+	text-decoration:none;
+	float:left;
+	color:white;
+	margin-left:350px;
+}
+.list0:hover{
+	background-color:#008B8B;
+}
+.list1:hover{
+	background-color:white;
+}
+.list2:hover{
+	background-color:white;
+}
